@@ -13,7 +13,7 @@ This project demonstrates various image blurring techniques using OpenCV in Pyth
 ## Clone the repo
 ```sh
 git clone https://github.com/Computer-Engineering-Robotics-Vision/image-blurring
-cd image-blurring-opencv
+cd image-blurring
 ```
 
 ## Create a virtual environment
